@@ -4,11 +4,11 @@ This is a collection of resources that we share at our CodeBookClub. As the main
 **If you want to know more about the club or if you want to join us, [check this out](https://dev.to/madisonkanna/join-our-javascript-book-club-l4k "check this out").**
 
 ## Resources
-- Books
-- Articles
-- E-Learning
-- Mobile Apps
-- YouTube
+- [Books](https://github.com/sneyderdev/codebookclub-resources/blob/master/books/README.md "Books")
+- [Articles](https://github.com/sneyderdev/codebookclub-resources/blob/master/articles/README.md "Articles")
+- [E-Learning](https://github.com/sneyderdev/codebookclub-resources/blob/master/e-learning/README.md "E-Learning")
+- [Mobile Apps](https://github.com/sneyderdev/codebookclub-resources/blob/master/mobile-apps/README.md "Mobile Apps")
+- [YouTube](https://github.com/sneyderdev/codebookclub-resources/blob/master/youtube/README.md "YouTube")
 
 ### Contributions
 Thanks to the people that has shared these resources for everyone.
