@@ -9,6 +9,7 @@ This is a collection of resources that we share at our CodeBookClub. As the main
 - [E-Learning](https://github.com/sneyderdev/codebookclub-resources/blob/master/e-learning/README.md "E-Learning")
 - [Mobile Apps](https://github.com/sneyderdev/codebookclub-resources/blob/master/mobile-apps/README.md "Mobile Apps")
 - [YouTube](https://github.com/sneyderdev/codebookclub-resources/blob/master/youtube/README.md "YouTube")
+- [Challenges](https://github.com/sneyderdev/codebookclub-resources/blob/master/challenges/README.md "Challenges")
 
 ### Contributions
 Thanks to the people that have shared these resources for everyone.
