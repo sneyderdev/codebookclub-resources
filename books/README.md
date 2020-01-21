@@ -3,6 +3,7 @@ Here you will find a collection of free and paid books.
 
 # Free Books
 ### Online Books
+- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 - [Eloquent JavaScript](https://eloquentjavascript.net/ "Eloquent JavaScript")
 - [10 Free JavaScript Books](https://www.webfx.com/blog/web-design/free-javascript-books/ "10 Free JavaScript Books")
 - [Introduction to Programming with JavaScript](https://launchschool.com/books/javascript "Introduction to Programming with JavaScript")
