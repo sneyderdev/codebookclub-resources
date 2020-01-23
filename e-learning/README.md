@@ -14,3 +14,5 @@ Here you will find a collection of online platforms and courses for learning Jav
 - [Git Immersion](http://gitimmersion.com/)
 - [Learn Git Branching](https://learngitbranching.js.org/)
 - [AST Explorer](https://astexplorer.net/)
+- [Visualizing Git](http://git-school.github.io/visualizing-git/)
+- [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)
