@@ -4,6 +4,7 @@ Here you will find a collection of online platforms and courses for learning Jav
 ## E-Learning Platforms
 - [freeCodeCamp](https://www.freecodecamp.org)
 - [W3Schools](https://www.w3schools.com)
+- [Frontend Masters](https://frontendmasters.com/)
 
 ## Courses
 - [The Modern Javascript Bootcamp Course (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
@@ -16,3 +17,5 @@ Here you will find a collection of online platforms and courses for learning Jav
 - [AST Explorer](https://astexplorer.net/)
 - [Visualizing Git](http://git-school.github.io/visualizing-git/)
 - [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)
+- [GitHub Student Developer Pack](https://education.github.com/pack)
+- [JS Comparasion Table](https://dorey.github.io/JavaScript-Equality-Table/)
