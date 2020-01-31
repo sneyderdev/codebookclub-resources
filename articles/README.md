@@ -12,6 +12,9 @@ Here you will find a collection of interesting articles about JavaScript and pro
 - [The history of “typeof null”](https://2ality.com/2013/10/typeof-null.html?ck_subscriber_id=696649047)
 - [The correct approach to learning software development — Part 1](https://medium.com/@devagrawal09/the-correct-approach-to-learning-software-development-part-1-a4b252ff5533)
 - [The correct approach to learning software development — Part 2](https://medium.com/@devagrawal09/the-correct-approach-to-learning-software-development-part-2-52b47450e099)
+- [JavaScript — WTF is ES6, ES8, ES 2017, ECMAScript… ?](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c)
+- [Official Django REST Framework Tutorial - A Beginners Guide](https://wsvincent.com/official-django-rest-framework-tutorial-beginners-guide/)
+- [Keeping Multiple Tabs In Sync Using the NGXS State Management Library, RxJS, and localStorage](https://levelup.gitconnected.com/keeping-multiple-tab-in-sync-using-ngxs-state-management-library-rxjs-and-localstorage-840c0bf615fa)
 
 ## Twitter Threads and Tweets
 - [Abstract Syntax Tree (AST)](https://twitter.com/mhmtakifalp/status/1219030513614315520) by [Alp](https://twitter.com/mhmtakifalp)
