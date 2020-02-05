@@ -15,6 +15,10 @@ Here you will find a collection of interesting articles about JavaScript and pro
 - [JavaScript — WTF is ES6, ES8, ES 2017, ECMAScript… ?](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c)
 - [Official Django REST Framework Tutorial - A Beginners Guide](https://wsvincent.com/official-django-rest-framework-tutorial-beginners-guide/)
 - [Keeping Multiple Tabs In Sync Using the NGXS State Management Library, RxJS, and localStorage](https://levelup.gitconnected.com/keeping-multiple-tab-in-sync-using-ngxs-state-management-library-rxjs-and-localstorage-840c0bf615fa)
+- [On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html#HowToPair)
+- [9 Must Decisions in Web Application Development](https://michaelscodingspot.com/web-application-development/?fbclid=IwAR2K-OBq8FZqLKTWkZkgLvXwO_x0kkgfDfgfJFMeqaxXoygS2_otnRHpsy4)
+- [Stuff The Internet Says On Scalability For January 24th, 2020](http://highscalability.com/blog/2020/1/24/stuff-the-internet-says-on-scalability-for-january-24th-2020.html)
+- [The boring technology behind a one-person Internet company](https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b)
 
 ## Twitter Threads and Tweets
 - [Abstract Syntax Tree (AST)](https://twitter.com/mhmtakifalp/status/1219030513614315520) by [Alp](https://twitter.com/mhmtakifalp)
