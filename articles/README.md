@@ -19,6 +19,8 @@ Here you will find a collection of interesting articles about JavaScript and pro
 - [9 Must Decisions in Web Application Development](https://michaelscodingspot.com/web-application-development/?fbclid=IwAR2K-OBq8FZqLKTWkZkgLvXwO_x0kkgfDfgfJFMeqaxXoygS2_otnRHpsy4)
 - [Stuff The Internet Says On Scalability For January 24th, 2020](http://highscalability.com/blog/2020/1/24/stuff-the-internet-says-on-scalability-for-january-24th-2020.html)
 - [The boring technology behind a one-person Internet company](https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b)
+- [Learn how to build web apps using ASP.NET Core 3.1](https://www.freecodecamp.org/news/asp-net-core-3-1-course/)
+- [How to add realtime notifications to your Node.js app](https://pusher.com/tutorials/realtime-notifications-nodejs)
 
 ## Twitter Threads and Tweets
 - [Abstract Syntax Tree (AST)](https://twitter.com/mhmtakifalp/status/1219030513614315520) by [Alp](https://twitter.com/mhmtakifalp)
