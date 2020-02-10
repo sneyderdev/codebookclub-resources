@@ -9,6 +9,7 @@ Here you will find a collection of online platforms and courses for learning Jav
 - [edX](https://www.edx.org/)
 - [Educative](https://www.educative.io/)
 - [Udacity](https://www.udacity.com/)
+- [Pluralsight](https://www.pluralsight.com/)
 
 ## Courses
 - [The Modern Javascript Bootcamp Course (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
@@ -30,3 +31,5 @@ Here you will find a collection of online platforms and courses for learning Jav
 - [JetBrains Academy](https://hi.hyperskill.org/)
 - [Listen Notes: The best podcast search engine](https://www.listennotes.com/)
 - [Slashdow: News for nerds, stuff that matters](https://slashdot.org/)
+- [TypeOfNaN JavaScript Quizzes](https://quiz.typeofnan.dev/)
+- [Top Rated Technology Courses on Udemy](https://www.topratedtechcourses.com/)
