@@ -1,5 +1,5 @@
 # CodeBookClub Resources: YouTube 📺
-Here you will find a collection of videos/channels for learning JavaScript.
+Here you will find a collection of videos/channels for learning JavaScript and programming in general.
 
 ## Channels
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
@@ -13,4 +13,7 @@ Here you will find a collection of videos/channels for learning JavaScript.
 - [Free, Fast Front End Hosting Tutorial](https://www.youtube.com/watch?v=rT-SwD2-8-4)
 - [Short Lesson - Compilation vs Interpretation](https://www.youtube.com/watch?v=JNMy969SjyU)
 - [Static vs Dynamic binding in Programming language](https://www.youtube.com/watch?v=8aWvIwtnK4Q)
+
+## Playlists
 - [Introduction to Computer Science - Harvard's CS50](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)
+- [Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
