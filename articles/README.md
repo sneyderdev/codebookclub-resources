@@ -21,6 +21,10 @@ Here you will find a collection of interesting articles about JavaScript and pro
 - [The boring technology behind a one-person Internet company](https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b)
 - [Learn how to build web apps using ASP.NET Core 3.1](https://www.freecodecamp.org/news/asp-net-core-3-1-course/)
 - [How to add realtime notifications to your Node.js app](https://pusher.com/tutorials/realtime-notifications-nodejs)
+- [Stop Using ‘var’ to Declare Variables in JavaScript](https://levelup.gitconnected.com/stop-using-var-to-declare-variables-in-javascript-6c0caec16f43)
+- [Array Methods in JavaScript](https://medium.com/@kishoreio/array-methods-in-javascript-238455cc5f6c)
+- [More project ideas to improve your coding skills](https://www.florin-pop.com/blog/2019/04/more-project-ideas-to-improve-your-coding-skills/)
+- [Advice for Computer Science College Students](https://www.joelonsoftware.com/2005/01/02/advice-for-computer-science-college-students/)
 
 ## Twitter Threads and Tweets
 - [Abstract Syntax Tree (AST)](https://twitter.com/mhmtakifalp/status/1219030513614315520) by [Alp](https://twitter.com/mhmtakifalp)
