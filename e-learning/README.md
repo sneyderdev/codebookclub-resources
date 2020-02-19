@@ -33,3 +33,6 @@ Here you will find a collection of online platforms and courses for learning Jav
 - [Slashdow: News for nerds, stuff that matters](https://slashdot.org/)
 - [TypeOfNaN JavaScript Quizzes](https://quiz.typeofnan.dev/)
 - [Top Rated Technology Courses on Udemy](https://www.topratedtechcourses.com/)
+- [Hoard.fyi (Collection of tools and resources)](https://hoard.fyi/)
+- [Contributor Covenant](https://www.contributor-covenant.org/)
+- [Open Source Diversity](https://opensourcediversity.org/)
