@@ -1,5 +1,5 @@
 <h1 align="center">
-	<a href="https://github.com/sneyderdev/codebookclub-resources"><img src="https://imgur.com/cOeFGID.png" alt="CodeBookClub" width="200"></a>
+	<a href="https://github.com/sneyderdev/codebookclub-resources"><img src="https://imgur.com/cOeFGID.png" alt="CodeBookClub" width="200" target="_blank"></a>
 	<br>
 	<br>
 	CodeBookClub Resources
@@ -11,7 +11,7 @@
 
 This is a collection of resources that we share at our CodeBookClub. As the main topic is **JavaScript**, the most of the resources are about it.
 
-**If you want to know more about the club or if you want to join us, [check this out](https://dev.to/madisonkanna/join-our-javascript-book-club-l4k).**
+**If you want to know more about the club or if you want to join us, [check this out](https://www.freecodecamp.org/news/join-the-code-book-club/).**
 
 ## Resources
 - [Books](https://github.com/sneyderdev/codebookclub-resources/blob/master/books/README.md "Books")
