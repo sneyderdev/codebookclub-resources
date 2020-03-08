@@ -10,6 +10,7 @@ Here you will find a collection of free and paid books.
 - [10 Free JavaScript Books](https://www.webfx.com/blog/web-design/free-javascript-books/)
 - [Introduction to Programming with JavaScript](https://launchschool.com/books/javascript)
 - [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/?fbclid=IwAR2gNx7PZC8l3s4PfjEEIRoig18LrCoEsuP5uybz1XhtO8rjmN4nCp9mrnY#book)
+- [Good Stuff to Know](https://baron816.gitbooks.io/good-stuff-to-know/content/)
 
 ### PDF Books
 - [Collection of PDF JavaScript Books](https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/JavaScript/)
