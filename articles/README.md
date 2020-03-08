@@ -27,6 +27,8 @@ Here you will find a collection of interesting articles about JavaScript and pro
 - [Array Methods in JavaScript](https://medium.com/@kishoreio/array-methods-in-javascript-238455cc5f6c)
 - [More project ideas to improve your coding skills](https://www.florin-pop.com/blog/2019/04/more-project-ideas-to-improve-your-coding-skills/)
 - [Advice for Computer Science College Students](https://www.joelonsoftware.com/2005/01/02/advice-for-computer-science-college-students/)
+- [NSFW: Use cases for Bitwise operators in Js](https://dev.to/puritanic/nsfw-use-cases-for-bitwise-operators-in-js-2om5)
+- [Conditional Statements are a Code Smell — Here is Your Relief](https://levelup.gitconnected.com/conditional-statements-are-a-code-smell-here-is-your-relief-38e50c023708)
 
 ## Twitter Threads and Tweets
 - [Abstract Syntax Tree (AST)](https://twitter.com/mhmtakifalp/status/1219030513614315520) by [Alp](https://twitter.com/mhmtakifalp)
