@@ -12,6 +12,7 @@ Here you will find a collection of online platforms and courses for learning Jav
 - [Educative](https://www.educative.io/)
 - [Udacity](https://www.udacity.com/)
 - [Pluralsight](https://www.pluralsight.com/)
+- [LeetCode](https://leetcode.com/)
 
 ## Courses
 - [The Modern Javascript Bootcamp Course (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
@@ -20,6 +21,7 @@ Here you will find a collection of online platforms and courses for learning Jav
 - [Programming 101](https://www.udemy.com/course/programming-101/)
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 - [Web Application & Software Architecture 101](https://www.educative.io/courses/web-application-software-architecture-101?fbclid=IwAR3N5o53FSo6sOrnhMFTbVVodgYaffqLp-kjCG6XjAlvHCeS8XhypNHhl-8)
+- [Just JavaScript](https://justjavascript.com/)
 
 ## Tools
 - [Git Immersion](http://gitimmersion.com/)
@@ -38,3 +40,6 @@ Here you will find a collection of online platforms and courses for learning Jav
 - [Hoard.fyi (Collection of tools and resources)](https://hoard.fyi/)
 - [Contributor Covenant](https://www.contributor-covenant.org/)
 - [Open Source Diversity](https://opensourcediversity.org/)
+- [React Resources](https://reactresources.com/)
+- [Setting up a mock server in Postman](https://learning.postman.com/docs/postman/mock-servers/setting-up-mock/)
+- [porkbun.com (Coupon for a free domain)](https://porkbun.com/tld/design/?coupon=RWD20A&utm_source=RWD-BSA&utm_medium=Advertising&utm_campaign=RWD-BSA_NewsletterAd_Feb_2020)
