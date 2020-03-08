@@ -19,3 +19,4 @@ Here you will find a collection of videos/channels for learning JavaScript and p
 ## Playlists
 - [Introduction to Computer Science - Harvard's CS50](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)
 - [Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [JavaScript Tutorial For Beginners](https://www.youtube.com/playlist?list=PL9ZqDLjDY8PmVejsIWIShSizE6TFwC9tE)
