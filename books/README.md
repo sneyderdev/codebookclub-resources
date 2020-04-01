@@ -15,6 +15,7 @@ Here you will find a collection of free and paid books.
 ### PDF Books
 - [Collection of PDF JavaScript Books](https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/JavaScript/)
 - [JavaScript Grammar (Twitter Thread for the free book)](https://twitter.com/js_tut/status/1211095431259869184?s=20)
+- [Introduction to Computing](https://computingbook.org/)
 
 # Paid Books
 - [Animation at Work](https://abookapart.com/products/animation-at-work)
