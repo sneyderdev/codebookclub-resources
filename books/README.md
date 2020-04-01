@@ -3,7 +3,7 @@
 # CodeBookClub Resources: Books 📚
 Here you will find a collection of free and paid books.
 
-# Free Books
+## Free Books
 ### Online Books
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 - [Eloquent JavaScript](https://eloquentjavascript.net/ "Eloquent JavaScript")
@@ -17,6 +17,6 @@ Here you will find a collection of free and paid books.
 - [JavaScript Grammar (Twitter Thread for the free book)](https://twitter.com/js_tut/status/1211095431259869184?s=20)
 - [Introduction to Computing](https://computingbook.org/)
 
-# Paid Books
+## Paid Books
 - [Animation at Work](https://abookapart.com/products/animation-at-work)
 - [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/)
