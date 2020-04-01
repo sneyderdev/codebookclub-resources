@@ -23,7 +23,7 @@ Here you will find a collection of online platforms and courses for learning Jav
 - [Web Application & Software Architecture 101](https://www.educative.io/courses/web-application-software-architecture-101?fbclid=IwAR3N5o53FSo6sOrnhMFTbVVodgYaffqLp-kjCG6XjAlvHCeS8XhypNHhl-8)
 - [Just JavaScript](https://justjavascript.com/)
 - [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals)
-- [Online Education in the Times of COVID-19 (LearnSQL.com grants free access to their Interactive courses till 04/20&2020)](https://learnsql.com/blog/online-education-in-the-times-of-covid19/)
+- [Online Education in the Times of COVID-19 (LearnSQL.com grants free access to their Interactive courses till 04/20/2020)](https://learnsql.com/blog/online-education-in-the-times-of-covid19/)
 - [CS106A - Code in Place (Free course by Stanford University - Student application deadline: April 8th)](https://compedu.stanford.edu/codeinplace/announcement/)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
