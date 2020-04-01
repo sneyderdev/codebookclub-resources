@@ -22,6 +22,10 @@ Here you will find a collection of online platforms and courses for learning Jav
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 - [Web Application & Software Architecture 101](https://www.educative.io/courses/web-application-software-architecture-101?fbclid=IwAR3N5o53FSo6sOrnhMFTbVVodgYaffqLp-kjCG6XjAlvHCeS8XhypNHhl-8)
 - [Just JavaScript](https://justjavascript.com/)
+- [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals)
+- [Online Education in the Times of COVID-19 (LearnSQL.com grants free access to their Interactive courses till 04/20&2020)](https://learnsql.com/blog/online-education-in-the-times-of-covid19/)
+- [CS106A - Code in Place (Free course by Stanford University - Student application deadline: April 8th)](https://compedu.stanford.edu/codeinplace/announcement/)
+- (The Missing Semester of Your CS Education)[https://missing.csail.mit.edu/]
 
 ## Tools
 - [Git Immersion](http://gitimmersion.com/)
@@ -43,3 +47,5 @@ Here you will find a collection of online platforms and courses for learning Jav
 - [React Resources](https://reactresources.com/)
 - [Setting up a mock server in Postman](https://learning.postman.com/docs/postman/mock-servers/setting-up-mock/)
 - [porkbun.com (Coupon for a free domain)](https://porkbun.com/tld/design/?coupon=RWD20A&utm_source=RWD-BSA&utm_medium=Advertising&utm_campaign=RWD-BSA_NewsletterAd_Feb_2020)
+- [Real Python (Coupon for access to some free video courses)](https://realpython.com/free-courses-march-2020)
+- [Workshop: get a deeper understanding of JavaScript (Saturday April 4th)](https://www.reddit.com/r/learnjavascript/comments/fj8ueo/workshop_get_a_deeper_understanding_of_javascript/)
