@@ -23,6 +23,7 @@ Here you will find a collection of online platforms and courses for learning Jav
 - [Udacity](https://www.udacity.com/)
 - [Pluralsight](https://www.pluralsight.com/)
 - [LeetCode](https://leetcode.com/)
+- [Coursera](https://www.coursera.org/)
 
 ## Courses
 ### Free Courses
