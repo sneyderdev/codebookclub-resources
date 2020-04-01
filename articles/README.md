@@ -35,6 +35,8 @@ Here you will find a collection of interesting articles about JavaScript and pro
 - [The art of naming variables](https://medium.com/hackernoon/the-art-of-naming-variables-52f44de00aad)
 - [React: A guide to making apps that someone will gladly pay for](https://enterwell.net/react-development-guide/)
 - [How to become a developer and get your first job as quickly as possible](https://medium.com/complete-coding/become-a-developer-and-get-your-first-job-fast-7b8ac26d84c6)
+- [The Best Python Tutorials](https://www.freecodecamp.org/news/best-python-tutorial/)
+- [Why Python is not the programming language of the future](https://towardsdatascience.com/why-python-is-not-the-programming-language-of-the-future-30ddc5339b66)
 
 ## Twitter Threads and Tweets
 - [Abstract Syntax Tree (AST)](https://twitter.com/mhmtakifalp/status/1219030513614315520) by [Alp](https://twitter.com/mhmtakifalp)
