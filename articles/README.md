@@ -29,6 +29,12 @@ Here you will find a collection of interesting articles about JavaScript and pro
 - [Advice for Computer Science College Students](https://www.joelonsoftware.com/2005/01/02/advice-for-computer-science-college-students/)
 - [NSFW: Use cases for Bitwise operators in Js](https://dev.to/puritanic/nsfw-use-cases-for-bitwise-operators-in-js-2om5)
 - [Conditional Statements are a Code Smell — Here is Your Relief](https://levelup.gitconnected.com/conditional-statements-are-a-code-smell-here-is-your-relief-38e50c023708)
+- [using useEffect effectively](https://dev.to/mkamranhamid/using-useeffect-effectively-2722)
+- [Performance Testing CSS with the Chrome DevTools](https://trezy.com/blog/performance-testing-css-with-the-chrome-devtools)
+- [Index as a key is an anti-pattern](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318)
+- [The art of naming variables](https://medium.com/hackernoon/the-art-of-naming-variables-52f44de00aad)
+- [React: A guide to making apps that someone will gladly pay for](https://enterwell.net/react-development-guide/)
+- [How to become a developer and get your first job as quickly as possible](https://medium.com/complete-coding/become-a-developer-and-get-your-first-job-fast-7b8ac26d84c6)
 
 ## Twitter Threads and Tweets
 - [Abstract Syntax Tree (AST)](https://twitter.com/mhmtakifalp/status/1219030513614315520) by [Alp](https://twitter.com/mhmtakifalp)
