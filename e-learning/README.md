@@ -25,7 +25,7 @@ Here you will find a collection of online platforms and courses for learning Jav
 - [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals)
 - [Online Education in the Times of COVID-19 (LearnSQL.com grants free access to their Interactive courses till 04/20&2020)](https://learnsql.com/blog/online-education-in-the-times-of-covid19/)
 - [CS106A - Code in Place (Free course by Stanford University - Student application deadline: April 8th)](https://compedu.stanford.edu/codeinplace/announcement/)
-- (The Missing Semester of Your CS Education)[https://missing.csail.mit.edu/]
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ## Tools
 - [Git Immersion](http://gitimmersion.com/)
