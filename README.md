@@ -21,7 +21,7 @@ This is a collection of resources that we share at our CodeBookClub. As the main
 - [YouTube](https://github.com/sneyderdev/codebookclub-resources/blob/master/youtube/README.md "YouTube")
 - [Challenges](https://github.com/sneyderdev/codebookclub-resources/blob/master/challenges/README.md "Challenges")
 
-### Contributions
+## Contributions
 Thanks to the people that have shared these resources for everyone. Feel free to PR if you want to contribute with this repository.
 
 Special thanks to [@Madisonkanna](https://twitter.com/Madisonkanna) and her friends for starting the club.
