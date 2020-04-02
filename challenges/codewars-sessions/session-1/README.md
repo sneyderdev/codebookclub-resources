@@ -1,4 +1,4 @@
-[◀ Back to CodeWars Sessions](https://github.com/sneyderdev/codebookclub-resources/blob/master/challenges/codewars-sessions/README.md)
+[🔙 Back to CodeWars Sessions](https://github.com/sneyderdev/codebookclub-resources/blob/master/challenges/codewars-sessions/README.md)
 
 # CodeWars Sessions: Session #1
 The challenge for this session was [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053/train/javascript).

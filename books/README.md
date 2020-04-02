@@ -1,4 +1,4 @@
-[◀ Back to Home](https://github.com/sneyderdev/codebookclub-resources)
+[🔙 Back to Home](https://github.com/sneyderdev/codebookclub-resources)
 
 # CodeBookClub Resources: Books 📚
 Here you will find a collection of free and paid books.

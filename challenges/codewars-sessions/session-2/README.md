@@ -1,4 +1,4 @@
-[◀ Back to CodeWars Sessions](https://github.com/sneyderdev/codebookclub-resources/blob/master/challenges/codewars-sessions/README.md)
+[🔙 Back to CodeWars Sessions](https://github.com/sneyderdev/codebookclub-resources/blob/master/challenges/codewars-sessions/README.md)
 
 # CodeWars Sessions: Session #2
 The challenge for this session was [Consecutive strings](https://www.codewars.com/kata/56a5d994ac971f1ac500003e/train/javascript).

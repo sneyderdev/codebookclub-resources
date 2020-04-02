@@ -1,4 +1,4 @@
-[◀ Back to Challenges](https://github.com/sneyderdev/codebookclub-resources/tree/master/challenges)
+[🔙 Back to Challenges](https://github.com/sneyderdev/codebookclub-resources/tree/master/challenges)
 
 # Challenges: CodeWars Sessions ⏳
 In the CodeBookClub, we do a weekly CodeWars session where we break up into groups and solve a determinate challenge.

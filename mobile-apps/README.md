@@ -1,4 +1,4 @@
-[◀ Back to Home](https://github.com/sneyderdev/codebookclub-resources)
+[🔙 Back to Home](https://github.com/sneyderdev/codebookclub-resources)
 
 # CodeBookClub Resources: Mobile Apps 📱
 Here you will find a collection of mobile applications for learning JavaScript and programming in general.

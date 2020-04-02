@@ -1,4 +1,4 @@
-[◀ Back to Home](https://github.com/sneyderdev/codebookclub-resources)
+[🔙 Back to Home](https://github.com/sneyderdev/codebookclub-resources)
 
 # CodeBookClub Resources: E-Learning 💻
 Here you will find a collection of online platforms and courses for learning JavaScript and programming in general.
