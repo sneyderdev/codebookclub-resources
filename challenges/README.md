@@ -12,7 +12,7 @@ Here you will find a collection of platforms and challenges to practice and help
 - [LeetCode](https://leetcode.com/)
 - [Topcoder](https://www.topcoder.com/)
 - [Sphere Online Judge (SPOJ)](https://www.spoj.com/)
-- [URI Oinline Judge](https://www.urionlinejudge.com.br/)
+- [URI Online Judge](https://www.urionlinejudge.com.br/)
 
 ## Challenges
 - [JavaScript30](https://javascript30.com/)
