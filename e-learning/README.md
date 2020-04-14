@@ -7,11 +7,11 @@ Here you will find a collection of online platforms and courses for learning Jav
 #### From 03/20/2020 to 04/20/2020:
 - [Online Education in the Times of COVID-19 (LearnSQL.com grants free access to their Interactive courses till 04/20/2020)](https://learnsql.com/blog/online-education-in-the-times-of-covid19/)
 
-#### Saturday April 4th:
-- [Workshop: get a deeper understanding of JavaScript (Free workshop by Jacques Le Normand)](https://www.reddit.com/r/learnjavascript/comments/fj8ueo/workshop_get_a_deeper_understanding_of_javascript/)
+#### Whole month of April:
+- [Pluralsight grants free access to their platform for the month of April](https://www.pluralsight.com/offer/2020/free-april-month)
 
-#### Course Dates: April 13th until May 22nd - Student Application Deadline: April 8th:
-- [CS106A - Code in Place (Free course by Stanford University)](https://compedu.stanford.edu/codeinplace/announcement/)
+#### 10.000 scholarships to Codecademy Pro:
+- [Scholarships for Students Affected by COVID-19](https://pro.codecademy.com/learn-from-home/)
 
 ## E-Learning Platforms
 - [freeCodeCamp](https://www.freecodecamp.org)
@@ -32,6 +32,7 @@ Here you will find a collection of online platforms and courses for learning Jav
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 - [Just JavaScript](https://justjavascript.com/)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- [Python Programming for Beginners](https://www.homeandlearn.uk/)
 
 ### Paid Courses
 - [Introduction to JavaScript (The lessons are free. Projects, quizzes and some articles are for paid subscriptions)](https://www.codecademy.com/learn/introduction-to-javascript)
@@ -49,6 +50,7 @@ Here you will find a collection of online platforms and courses for learning Jav
 - [TypeOfNaN JavaScript Quizzes](https://quiz.typeofnan.dev/)
 - [Contributor Covenant](https://www.contributor-covenant.org/)
 - [Open Source Diversity](https://opensourcediversity.org/)
+- [Web Development Roadmaps](https://www.w3schools.com/whatis/default.asp)
 
 ## Other Resources
 - [Setting up a mock server in Postman](https://learning.postman.com/docs/postman/mock-servers/setting-up-mock/)
@@ -62,3 +64,7 @@ Here you will find a collection of online platforms and courses for learning Jav
 - [Hoard.fyi (Collection of tools and resources)](https://hoard.fyi/)
 - [porkbun.com (Coupon for a free domain)](https://porkbun.com/tld/design/?coupon=RWD20A&utm_source=RWD-BSA&utm_medium=Advertising&utm_campaign=RWD-BSA_NewsletterAd_Feb_2020)
 - [Real Python (Coupon for access to some free video courses)](https://realpython.com/free-courses-march-2020)
+- [CSNewbs (Educational resource aimed at CS students)](https://www.csnewbs.com/)
+- [Python Resources (GitHub Repository)](https://github.com/MichaelCurrin/learn-to-code/blob/master/Scripting%20languages/Python/README.md)
+- [Learn Regex (GitHub Repository)](https://github.com/ziishaned/learn-regex)
+- [Python guide by freeCodeCamp](https://guide.freecodecamp.org/python/)
