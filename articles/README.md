@@ -22,6 +22,7 @@ Here you will find a collection of interesting articles about JavaScript and pro
 - [Index as a key is an anti-pattern](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318)
 - [The art of naming variables](https://medium.com/hackernoon/the-art-of-naming-variables-52f44de00aad)
 - [React: A guide to making apps that someone will gladly pay for](https://enterwell.net/react-development-guide/)
+- [Functional Programming Principles in Javascript](https://leandrotk.github.io/tk/2018/11/functional-programming-principles-in-javascript/index.html)
 
 ## Python Articles
 - [Official Django REST Framework Tutorial - A Beginners Guide](https://wsvincent.com/official-django-rest-framework-tutorial-beginners-guide/)
@@ -44,6 +45,7 @@ Here you will find a collection of interesting articles about JavaScript and pro
 - [Advice for Computer Science College Students](https://www.joelonsoftware.com/2005/01/02/advice-for-computer-science-college-students/)
 - [Conditional Statements are a Code Smell — Here is Your Relief](https://levelup.gitconnected.com/conditional-statements-are-a-code-smell-here-is-your-relief-38e50c023708)
 - [How to become a developer and get your first job as quickly as possible](https://medium.com/complete-coding/become-a-developer-and-get-your-first-job-fast-7b8ac26d84c6)
+- [The C Beginner's Handbook: Learn C Programming Language basics in just a few hours](https://www.freecodecamp.org/news/the-c-beginners-handbook/)
 
 ## Twitter Threads and Tweets
 - [Abstract Syntax Tree (AST)](https://twitter.com/mhmtakifalp/status/1219030513614315520) by [Alp](https://twitter.com/mhmtakifalp)
