@@ -4,14 +4,14 @@
 Here you will find a collection of online platforms and courses for learning JavaScript and programming in general.
 
 ## Time-Limited Resources 📌
-#### From 03/20/2020 to 04/20/2020:
-- [Online Education in the Times of COVID-19 (LearnSQL.com grants free access to their Interactive courses till 04/20/2020)](https://learnsql.com/blog/online-education-in-the-times-of-covid19/)
-
 #### Whole month of April:
 - [Pluralsight grants free access to their platform for the month of April](https://www.pluralsight.com/offer/2020/free-april-month)
 
 #### 10.000 scholarships to Codecademy Pro:
 - [Scholarships for Students Affected by COVID-19](https://pro.codecademy.com/learn-from-home/)
+
+#### Free if you sign up by July 8:
+- [Introduction to Flutter Development Using Dart](https://www.appbrewery.co/p/intro-to-flutter?utm_source=google&utm_medium=website%20banner&utm_campaign=app_brewery)
 
 ## E-Learning Platforms
 - [freeCodeCamp](https://www.freecodecamp.org)
