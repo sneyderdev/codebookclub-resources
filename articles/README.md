@@ -23,6 +23,8 @@ Here you will find a collection of interesting articles about JavaScript and pro
 - [The art of naming variables](https://medium.com/hackernoon/the-art-of-naming-variables-52f44de00aad)
 - [React: A guide to making apps that someone will gladly pay for](https://enterwell.net/react-development-guide/)
 - [Functional Programming Principles in Javascript](https://leandrotk.github.io/tk/2018/11/functional-programming-principles-in-javascript/index.html)
+- [Fun with Dates](https://leandrotk.github.io/tk/2020/04/fun-with-dates/index.html)
+- [React Hooks, Context API, and Pokemons](https://leandrotk.github.io/tk/2020/04/react-hooks-context-api-and-pokemons/index.html)
 
 ## Python Articles
 - [Official Django REST Framework Tutorial - A Beginners Guide](https://wsvincent.com/official-django-rest-framework-tutorial-beginners-guide/)
@@ -33,6 +35,7 @@ Here you will find a collection of interesting articles about JavaScript and pro
 - [9 Must Decisions in Web Application Development](https://michaelscodingspot.com/web-application-development/?fbclid=IwAR2K-OBq8FZqLKTWkZkgLvXwO_x0kkgfDfgfJFMeqaxXoygS2_otnRHpsy4)
 - [Learn how to build web apps using ASP.NET Core 3.1](https://www.freecodecamp.org/news/asp-net-core-3-1-course/)
 - [Performance Testing CSS with the Chrome DevTools](https://trezy.com/blog/performance-testing-css-with-the-chrome-devtools)
+- [Front-End Challenges](https://css-tricks.com/front-end-challenges/)
 
 ## Computer Science (CS), Programming and Professional Growth Articles
 - [A Few Tips for Mob Programming](https://www.industriallogic.com/blog/a-few-tips-for-mob-programming/)
