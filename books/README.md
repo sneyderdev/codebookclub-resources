@@ -29,3 +29,4 @@ Here you will find a collection of free and paid books.
 - [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/)
 - [Python by Example](https://books.google.com.co/books/about/Python_by_Example.html?id=IyUEwQEACAAJ&redir_esc=y)
 - [The Cartoon Guide to Computer Science](https://books.google.com.co/books/about/The_Cartoon_Guide_to_Computer_Science.html?id=RJggAQAAIAAJ&source=kp_book_description&redir_esc=y)
+- [A Smarter Way to Learn JavaScript: The new approach that uses technology to cut your effort in half](https://www.amazon.com/Smarter-Way-Learn-JavaScript-technology-ebook/dp/B00H1W9I6C)
