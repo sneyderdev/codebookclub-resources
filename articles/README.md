@@ -25,6 +25,8 @@ Here you will find a collection of interesting articles about JavaScript and pro
 - [Functional Programming Principles in Javascript](https://leandrotk.github.io/tk/2018/11/functional-programming-principles-in-javascript/index.html)
 - [Fun with Dates](https://leandrotk.github.io/tk/2020/04/fun-with-dates/index.html)
 - [React Hooks, Context API, and Pokemons](https://leandrotk.github.io/tk/2020/04/react-hooks-context-api-and-pokemons/index.html)
+- [When does React re-render components?](https://felixgerschau.com/react-rerender-components)
+- [React Performance Optimization with React.memo()](https://felixgerschau.com/react-performance-react-memo)
 
 ## Python Articles
 - [Official Django REST Framework Tutorial - A Beginners Guide](https://wsvincent.com/official-django-rest-framework-tutorial-beginners-guide/)
