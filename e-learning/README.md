@@ -4,14 +4,17 @@
 Here you will find a collection of online platforms and courses for learning JavaScript and programming in general.
 
 ## Time-Limited Resources 📌
-#### Whole month of April:
-- [Pluralsight grants free access to their platform for the month of April](https://www.pluralsight.com/offer/2020/free-april-month)
+#### Free books until May 30:
+- [Manning opened up 6 books to download for free, 1 JavaScript, 2 Python, 2 Web Design](https://freecontent.manning.com/mannings-coronavirus-response/)
 
-#### 10.000 scholarships to Codecademy Pro:
-- [Scholarships for Students Affected by COVID-19](https://pro.codecademy.com/learn-from-home/)
+#### Free entrepreneurship online classes (May 14, 21 and 28 Sessions):
+- [Find the upcoming sessions here](https://nowgostart.com/)
 
 #### Free if you sign up by July 8:
 - [Introduction to Flutter Development Using Dart](https://www.appbrewery.co/p/intro-to-flutter?utm_source=google&utm_medium=website%20banner&utm_campaign=app_brewery)
+
+#### Free courses until July 31:
+- [Here Are 115 Coursera Certificates You Can Now Earn for Free (During the Coronavirus Pandemic)](https://www.freecodecamp.org/news/coronavirus-coursera-free-certificate/)
 
 ## E-Learning Platforms
 - [freeCodeCamp](https://www.freecodecamp.org)
@@ -33,12 +36,14 @@ Here you will find a collection of online platforms and courses for learning Jav
 - [Just JavaScript](https://justjavascript.com/)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [Python Programming for Beginners](https://www.homeandlearn.uk/)
+- [Databases - The Odin Project](https://www.theodinproject.com/courses/databases)
 
 ### Paid Courses
 - [Introduction to JavaScript (The lessons are free. Projects, quizzes and some articles are for paid subscriptions)](https://www.codecademy.com/learn/introduction-to-javascript)
 - [The Modern Javascript Bootcamp Course (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
 - [Web Application & Software Architecture 101](https://www.educative.io/courses/web-application-software-architecture-101?fbclid=IwAR3N5o53FSo6sOrnhMFTbVVodgYaffqLp-kjCG6XjAlvHCeS8XhypNHhl-8)
 - [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals)
+- [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
 
 ## Tools
 - [Git Immersion](http://gitimmersion.com/)
@@ -51,6 +56,7 @@ Here you will find a collection of online platforms and courses for learning Jav
 - [Contributor Covenant](https://www.contributor-covenant.org/)
 - [Open Source Diversity](https://opensourcediversity.org/)
 - [Web Development Roadmaps](https://www.w3schools.com/whatis/default.asp)
+- [Chrome extension to save & organize code snippets from across the web [BETA]](https://www.thiscodeworks.com/extension)
 
 ## Other Resources
 - [Setting up a mock server in Postman](https://learning.postman.com/docs/postman/mock-servers/setting-up-mock/)
