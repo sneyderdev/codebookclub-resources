@@ -27,6 +27,7 @@ Here you will find a collection of interesting articles about JavaScript and pro
 - [React Hooks, Context API, and Pokemons](https://leandrotk.github.io/tk/2020/04/react-hooks-context-api-and-pokemons/index.html)
 - [When does React re-render components?](https://felixgerschau.com/react-rerender-components)
 - [React Performance Optimization with React.memo()](https://felixgerschau.com/react-performance-react-memo)
+- [Understanding Hoisting in JavaScript](https://scotch.io/tutorials/understanding-hoisting-in-javascript#annotations:MinKrJNYEeqaUg8x5wDbMg)
 
 ## Python Articles
 - [Official Django REST Framework Tutorial - A Beginners Guide](https://wsvincent.com/official-django-rest-framework-tutorial-beginners-guide/)
