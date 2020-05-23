@@ -1,7 +1,7 @@
 [🔙 Back to Home](https://github.com/sneyderdev/codebookclub-resources)
 
 # TheCodeClub Resources: E-Learning 💻
-Here you will find a collection of online platforms and courses for learning JavaScript and programming in general.
+Here you will find a collection of tools, courses, online platforms and other resources that you may find helpful for learning programming in general.
 
 ## Time-Limited Resources 📌
 #### Free books until May 30:
@@ -25,8 +25,8 @@ Here you will find a collection of online platforms and courses for learning Jav
 - [Educative](https://www.educative.io/)
 - [Udacity](https://www.udacity.com/)
 - [Pluralsight](https://www.pluralsight.com/)
-- [LeetCode](https://leetcode.com/)
 - [Coursera](https://www.coursera.org/)
+- [egghead](https://egghead.io/)
 
 ## Courses
 ### Free Courses
@@ -57,6 +57,7 @@ Here you will find a collection of online platforms and courses for learning Jav
 - [Open Source Diversity](https://opensourcediversity.org/)
 - [Web Development Roadmaps](https://www.w3schools.com/whatis/default.asp)
 - [Chrome extension to save & organize code snippets from across the web [BETA]](https://www.thiscodeworks.com/extension)
+- [Chrome extension - Hypothesis - Web & PDF Annotation](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek?hl=en)
 
 ## Other Resources
 - [Setting up a mock server in Postman](https://learning.postman.com/docs/postman/mock-servers/setting-up-mock/)
@@ -74,3 +75,5 @@ Here you will find a collection of online platforms and courses for learning Jav
 - [Python Resources (GitHub Repository)](https://github.com/MichaelCurrin/learn-to-code/blob/master/Scripting%20languages/Python/README.md)
 - [Learn Regex (GitHub Repository)](https://github.com/ziishaned/learn-regex)
 - [Python guide by freeCodeCamp](https://guide.freecodecamp.org/python/)
+- [JavaScript Guide (GitHub Repository)](https://github.com/MichaelCurrin/learn-to-code/tree/master/en/topics/scripting_languages/JavaScript)
+- [Ladybug Podcast: Level up with JavaScript](https://ladybug.dev/level-up-javascript)
