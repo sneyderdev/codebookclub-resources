@@ -2,16 +2,16 @@
 	<a href="https://github.com/sneyderdev/codebookclub-resources"><img src="https://imgur.com/cOeFGID.png" alt="CodeBookClub" width="200" target="_blank"></a>
 	<br>
 	<br>
-	CodeBookClub Resources
+	TheCodeClub Resources
 	<br>
 	<br>
 </h1>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codebookclub?logo=twitter&style=for-the-badge)](https://twitter.com/codebookclub)
+[![Twitter Follow](https://img.shields.io/twitter/follow/thecodeclub?logo=twitter&style=for-the-badge)](https://twitter.com/thecodeclub)
 
-This is a collection of resources that we share at our CodeBookClub. As the main topic is **JavaScript**, the most of the resources are about it.
+This is a collection of resources that we share at TheCodeClub.
 
-**If you want to know more about the club or if you want to join us, [check this out](https://www.freecodecamp.org/news/join-the-code-book-club/).**
+**If you want to know more about the club or if you want to join us, [check this out](https://www.madisonkanna.com/codebookclub/).**
 
 ## Resources
 - [Books](https://github.com/sneyderdev/codebookclub-resources/blob/master/books/README.md "Books")
