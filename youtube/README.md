@@ -22,6 +22,7 @@ Here you will find a collection of videos/channels for learning JavaScript and p
 - [Python for Everybody - Full Course with Dr. Chuck](https://www.youtube.com/watch?v=8DvywoWv6fI)
 - [The Beginner's Guide To Terminal (For Webdev/Data Science)](https://www.youtube.com/watch?v=rIp4n3V0_NU)
 - [Dissecting NodeJS - How it works under the hood - Lucas Santos](https://www.youtube.com/watch?v=xUO__XJbY0A)
+- [Data Structures and Algorithms in Java](https://www.youtube.com/watch?v=BBpAmxU_NQo)
 
 ## Playlists
 - [Introduction to Computer Science - Harvard's CS50](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)
