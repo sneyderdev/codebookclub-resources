@@ -37,6 +37,7 @@ Here you will find a collection of tools, courses, online platforms and other re
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [Python Programming for Beginners](https://www.homeandlearn.uk/)
 - [Databases - The Odin Project](https://www.theodinproject.com/courses/databases)
+- [Data Science Math Skills (You can enroll for free but you'll have to pay for the certificate)](https://www.coursera.org/learn/datasciencemathskills)
 
 ### Paid Courses
 - [Introduction to JavaScript (The lessons are free. Projects, quizzes and some articles are for paid subscriptions)](https://www.codecademy.com/learn/introduction-to-javascript)
