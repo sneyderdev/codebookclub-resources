@@ -1,4 +1,4 @@
-[🔙 Back to Home](https://github.com/sneyderdev/codebookclub-resources)
+[🔙 Back to Home](https://github.com/sneyderdev/thecodeclub-resources)
 
 # TheCodeClub Resources: Challenges 👩‍💻👨‍💻
 Here you will find a collection of platforms and challenges to practice and help you enhance your skills.

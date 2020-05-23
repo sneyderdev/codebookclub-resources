@@ -1,9 +1,9 @@
-[🔙 Back to Home](https://github.com/sneyderdev/codebookclub-resources)
+[🔙 Back to Home](https://github.com/sneyderdev/thecodeclub-resources)
 
 # TheCodeClub Resources: Books 📚
 Here you will find a collection of free and paid books.
 
-📌 Make sure to check the **[Time-Limited Resources](https://github.com/sneyderdev/codebookclub-resources/blob/master/e-learning/README.md#time-limited-resources-)** for some time-limited eBooks.
+📌 Make sure to check the **[Time-Limited Resources](https://github.com/sneyderdev/thecodeclub-resources/blob/master/e-learning/README.md#time-limited-resources-)** for some time-limited eBooks.
 
 ## Free Books
 ### Online Books

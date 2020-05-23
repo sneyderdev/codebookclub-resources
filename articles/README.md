@@ -1,4 +1,4 @@
-[🔙 Back to Home](https://github.com/sneyderdev/codebookclub-resources)
+[🔙 Back to Home](https://github.com/sneyderdev/thecodeclub-resources)
 
 # TheCodeClub Resources: Articles 📄
 Here you will find a collection of interesting articles about JavaScript and programming in general.
