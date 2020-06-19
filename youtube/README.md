@@ -1,6 +1,6 @@
-[🔙 Back to Home](https://github.com/sneyderdev/thecodeclub-resources)
+[🔙 Back to Home](https://github.com/sneyderdev/codebookclub-resources)
 
-# TheCodeClub Resources: YouTube 📺
+# CodeBookClub Resources: YouTube 📺
 Here you will find a collection of videos/channels for learning JavaScript and programming in general.
 
 ## Channels

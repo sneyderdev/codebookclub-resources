@@ -1,6 +1,6 @@
-[🔙 Back to Home](https://github.com/sneyderdev/thecodeclub-resources)
+[🔙 Back to Home](https://github.com/sneyderdev/codebookclub-resources)
 
-# TheCodeClub Resources: E-Learning 💻
+# CodeBookClub Resources: E-Learning 💻
 Here you will find a collection of tools, courses, online platforms and other resources that you may find helpful for learning programming in general.
 
 ## Time-Limited Resources 📌

@@ -1,6 +1,6 @@
-[🔙 Back to Home](https://github.com/sneyderdev/thecodeclub-resources)
+[🔙 Back to Home](https://github.com/sneyderdev/codebookclub-resources)
 
-# TheCodeClub Resources: Challenges 👩‍💻👨‍💻
+# CodeBookClub Resources: Challenges 👩‍💻👨‍💻
 Here you will find a collection of platforms and challenges to practice and help you enhance your skills.
 
 ## Platforms
@@ -17,6 +17,3 @@ Here you will find a collection of platforms and challenges to practice and help
 ## Challenges
 - [JavaScript30](https://javascript30.com/)
 - [4500+ JavaScript Practice Challenges](https://edabit.com/challenges/javascript)
-
-## CodeWars Sessions
-[Check out our CodeWars Sessions](https://github.com/sneyderdev/codebookclub-resources/blob/master/challenges/codewars-sessions/README.md)
