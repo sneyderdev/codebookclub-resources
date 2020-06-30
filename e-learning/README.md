@@ -38,6 +38,7 @@ Here you will find a collection of tools, courses, online platforms and other re
 - [Python Programming for Beginners](https://www.homeandlearn.uk/)
 - [Databases - The Odin Project](https://www.theodinproject.com/courses/databases)
 - [Data Science Math Skills (You can enroll for free but you'll have to pay for the certificate)](https://www.coursera.org/learn/datasciencemathskills)
+- [Javascript30](https://javascript30.com/)
 
 ### Paid Courses
 - [Introduction to JavaScript (The lessons are free. Projects, quizzes and some articles are for paid subscriptions)](https://www.codecademy.com/learn/introduction-to-javascript)
@@ -45,6 +46,9 @@ Here you will find a collection of tools, courses, online platforms and other re
 - [Web Application & Software Architecture 101](https://www.educative.io/courses/web-application-software-architecture-101?fbclid=IwAR3N5o53FSo6sOrnhMFTbVVodgYaffqLp-kjCG6XjAlvHCeS8XhypNHhl-8)
 - [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals)
 - [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
+- [VanillaJS Academy](https://vanillajsacademy.com/)
+- [ES6.io](https://es6.io/)
+- [Level Up Tutorials](https://leveluptutorials.com)
 
 ## Tools
 - [Git Immersion](http://gitimmersion.com/)
@@ -78,3 +82,4 @@ Here you will find a collection of tools, courses, online platforms and other re
 - [Python guide by freeCodeCamp](https://guide.freecodecamp.org/python/)
 - [JavaScript Guide (GitHub Repository)](https://github.com/MichaelCurrin/learn-to-code/tree/master/en/topics/scripting_languages/JavaScript)
 - [Ladybug Podcast: Level up with JavaScript](https://ladybug.dev/level-up-javascript)
+- [VanillaJS Podcast](https://vanillajspodcast.com/)
